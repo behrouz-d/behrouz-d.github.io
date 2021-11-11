@@ -47,7 +47,7 @@ sidebar:
 #       - item: Cooking
 #         link:
 
-career-profile:
+career-profile: 
     title: About me
     summary: |
       PhD student and research associate at [TU Berlin](https://www.tu.berlin) mentored by 
@@ -60,10 +60,10 @@ career-profile:
       [Hannu Toivonen](https://www2.helsinki.fi/en/researchgroups/computational-creativity-and-data-mining/hannu-toivonen) and 
       [Hannes Heikinheimo](https://www.linkedin.com/in/hannesheikinheimo/).
 
-publications:
+publications: 
     title: Publications
     intro: asd
-    papers:
+    papers: 
       - title: "Continuous Training and Deployment of Deep Learning Models"
         link: "#"
         authors: Ioannis Prapas, Behrouz Derakhshan, Alireza Rezaei Mahdiraji, and Volker Markl
