@@ -104,48 +104,40 @@ theses:
     papers: 
       - title: "Secure Data Matching in Federated Learning"
         link: "pdfs/advised-theses/secure-data-matching-thesis.pdf"
-        authors: Ali Arous
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2021"
+        authors: Ali Arous, TU Berlin, August 2021
         
       - title: "Realistic Advanced Analytics Pipelines for End-to-End Machine Learning Benchmarking"
         link: "pdfs/advised-theses/ml-benchmarking-theis.pdf"
-        authors: Robertus Vincent
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2021"
+        authors: Robertus Vincent, TU Berlin, August 2021
         
       - title: "Empirical Comparison of Forecasting Methods."
         link: "pdfs/advised-theses/forecasting-comparison-theis.pdf"
-        authors: Leonardo Araneda Freccero
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, July 2021"
+        authors: Leonardo Araneda Freccero, TU Berlin, July 2021
         
       - title: "Continuous Training and Deployment of Deep Learning Models"
         link: "pdfs/advised-theses/continuous-dl-training-thesis.pdf"
-        authors: Ioannis Prapas
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2020"
+        authors: Ioannis Prapas, TU Berlin, August 2020
       
       - title: "Efficient Automatic Machine Learning using Experiment Databases"
         link: "pdfs/advised-theses/auto-ml-thesis.pdf"
-        authors: Milad Abbaszadeh Jahromi
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, June 2020"
+        authors: Milad Abbaszadeh Jahromi, TU Berlin, June 2020
         
       - title: "Hyperparameter Optimization for Large-scale Machine Learning"
         link: "pdfs/advised-theses/hpo-thesis.pdf"
-        authors: Aitor Palacios Cuesta
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, October 2018"
+        authors: Aitor Palacios Cuesta, TU Berlin, October 2018
     
       - title: "Serving Large Machine Learning Models on Apache Flink"
         link: "pdfs/advised-theses/serving-thesis.pdf"
-        authors: Ziyad Muhammed Mohiyudheen
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2017"
+        authors: Ziyad Muhammed Mohiyudheen, TU Berlin, August 2017
         
       - title: "Anomaly Detection in Distributed Dataflow Systems"
         link: "pdfs/advised-theses/anomaly-thesis.pdf"
-        authors: Xuan Truong NGUYEN
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, July 2016"
+        authors: Xuan Truong NGUYEN, TU Berlin, July 2016
+
 
       - title: "Scalable Data Stream Clustering"
         link: "pdfs/advised-theses/scalable-stream-clustering-thesis.pdf"
-        authors: Biplob Biswas
-        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, July 2016"
+        authors: Biplob Biswas, TU Berlin, July 2016
         
 
 skills:
