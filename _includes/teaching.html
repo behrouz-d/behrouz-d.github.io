@@ -1,5 +1,5 @@
-{% assign theses = site.data.data.teaching %}
-{% if theses %}
+{% assign teaching = site.data.data.teaching %}
+{% if teaching %}
 <section class="section teaching-section">
 
   <h2 class="section-title">
@@ -18,7 +18,7 @@
 
   {% for course in courses %}
   <div class="item">
-    {% if thesis.link %}
+    {% if course.link %}
       <li><a href="{{ course.link }}">{{ course.title }}</a></li>
     {% else %}
       <li>{{ course.title }}</li>
