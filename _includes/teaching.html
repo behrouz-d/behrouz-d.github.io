@@ -16,16 +16,13 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for course in teaching %}
+  {% for course in courses %}
   <div class="item">
     {% if thesis.link %}
       <li><a href="{{ course.link }}">{{ course.title }}</a></li>
     {% else %}
       <li>{{ course.title }}</li>
     {% endif %}
-<!--     <div class="thesis-authors">{{ thesis.authors }}</div> -->
-<!--     <div class="thesis-conference">{{ thesis.conference }}</div> -->
-
   </div><!--//item-->
   {% endfor %}
 
