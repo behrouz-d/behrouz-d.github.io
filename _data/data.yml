@@ -78,6 +78,21 @@ publications:
         link: "pdfs/publications/collab-sigmod.pdf"
         authors: Behrouz Derakhshan, Alireza Rezaei Mahdiraji, Ziawasch Abedjan, Tilmann Rabl, Volker Markl
         conference: "Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data"
+        
+     - title: Continuous Deployment of Machine Learning Pipelines
+        link: "pdfs/publications/continuous-edbt.pdf"
+        authors: Behrouz Derakhshan, Alireza Rezaei Mahdiraji, Tilmann Rabl, Volker Markl
+        conference: "Proceedings of the 22nd International Conference on Extending Database Technology (EDBT), March 26-29, 2019."
+    
+     - title: Crowdsourced Nonparametric Density Estimation Using Relative Distances
+        link: "pdfs/publications/crowedsourced-aaai.pdf"
+        authors: Antti Ukkonen, Behrouz Derakhshan, Hannes Heikinheimo
+        conference: "Third AAAI Conference on Human Computation and Crowdsourcing, September 23, 2015."
+    
+     - title: Influence Maximization in Large Scale Graphs
+        link: "pdfs/publications/master-thesis.pdf"
+        authors: Behrouz Derakhshan
+        conference: "Master Thesis, University of Helsinki, Faculty of Science, Department of Computer Science, 2015"
 
 skills:
     title: Skills &amp; Proficiency
