@@ -98,6 +98,14 @@ publications:
         link: "pdfs/publications/master-thesis.pdf"
         authors: Behrouz Derakhshan
         conference: "Master Thesis, University of Helsinki, Faculty of Science, Department of Computer Science, 2015"
+theses:
+    title: Thesis Supervision
+    intro: 
+    papers: 
+      - title: "Secure Data Matching in Federated Learning."
+        link: "pdfs/advised-theses/secure-data-matching-thesis.pdf"
+        authors: Ali Arous
+        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2021"
         
 
 skills:
