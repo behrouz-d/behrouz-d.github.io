@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Behrouz Derakhshan
-    tagline: ML and Data Engineer and Researcher
+    tagline: ML and Data Engineer/Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -48,14 +48,17 @@ sidebar:
 #         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      PhD student and research associate at [TU Berlin](https://www.tu.berlin) mentored by 
+      [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl) and cooperating with 
+      [Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html) and [Zoi Kaoudi](https://www.user.tu-berlin.de/zkaoudi/).
+      My research interests are scalable machine learning and management of end-to-end machine learning pipelines. 
+      
+      Previously, I worked as a data engineer/senior data engineer in [Rovio Entertainment](hhttps://www.rovio.com/). 
+      I received my MSc degree from [University of Helsinki](https://www.ethz.ch/en.html) under supervision of 
+      [Hannu Toivonen](https://www2.helsinki.fi/en/researchgroups/computational-creativity-and-data-mining/hannu-toivonen) and 
+      [Hannes Heikinheimo](https://www.linkedin.com/in/hannesheikinheimo/).
 education:
     - degree: MSc in Computer Science
       university: University of London
