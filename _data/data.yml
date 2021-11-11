@@ -12,9 +12,9 @@ sidebar:
 #     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: behrouz.derakhshan@gmail.com
+    email: fname.lname@gmail.com
     phone: 
-    website: behrouz-d.github.io #do not add http://
+    website: #do not add http://
     linkedin: behrouzd
     xing: 
     github: behrouz-d
