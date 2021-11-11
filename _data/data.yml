@@ -50,7 +50,7 @@ sidebar:
 career-profile: 
     title: About me
     summary: |
-      I am a Database/Machine Learning researcher in [DFKI](https://dfki.de/) and an PhD candidate at [TU Berlin](https://www.tu.berlin) mentored by 
+      I am a Database and Machine Learning researcher in [DFKI](https://dfki.de) and an PhD candidate at [TU Berlin](https://www.tu.berlin) mentored by 
       [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl) and cooperating with 
       [Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html) and [Zoi Kaoudi](https://www.user.tu-berlin.de/zkaoudi/).
       My research interests are scalable machine learning and management of end-to-end machine learning pipelines. 
