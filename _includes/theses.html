@@ -19,9 +19,9 @@
   {% for thesis in theses.papers %}
   <div class="item">
     {% if thesis.link %}
-      <li><a href="{{ thesis.link }}">{{ thesis.title }, { thesis.authors }}</a></li>
+      <li><a href="{{ thesis.link }}">{{ thesis.title }}</a></li>
     {% else %}
-      <li>{{ thesis.title }, { thesis.authors }}</li>
+      <li>{{ thesis.title }}</li>
     {% endif %}
 <!--     <div class="thesis-authors">{{ thesis.authors }}</div> -->
 <!--     <div class="thesis-conference">{{ thesis.conference }}</div> -->
