@@ -16,7 +16,7 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for course in courses %}
+  {% for course in teaching.courses %}
   <div class="item">
     {% if course.link %}
       <li><a href="{{ course.link }}">{{ course.title }}</a></li>
