@@ -61,7 +61,7 @@ career-profile:
       [Hannes Heikinheimo](https://www.linkedin.com/in/hannesheikinheimo/).
 
 publications: 
-    title: Publications
+    title: Publications and Patents
     intro: 
     papers: 
       - title: "Continuous Training and Deployment of Deep Learning Models"
@@ -83,6 +83,11 @@ publications:
         link: "pdfs/publications/continuous-edbt.pdf"
         authors: Behrouz Derakhshan, Alireza Rezaei Mahdiraji, Tilmann Rabl, Volker Markl
         conference: "Proceedings of the 22nd International Conference on Extending Database Technology (EDBT), March 26-29, 2019."
+        
+      - title: "Lightweight functional testing"
+        link: "https://patentimages.storage.googleapis.com/8b/1b/07/57ab5db7b53188/US9658932.pdf"
+        authors: Hannes Heikinheimo, Esko Suomi, Behrouz Derakhshan
+        conference: US Patent Office
     
       - title: Crowdsourced Nonparametric Density Estimation Using Relative Distances
         link: "pdfs/publications/crowedsourced-aaai.pdf"
@@ -93,15 +98,7 @@ publications:
         link: "pdfs/publications/master-thesis.pdf"
         authors: Behrouz Derakhshan
         conference: "Master Thesis, University of Helsinki, Faculty of Science, Department of Computer Science, 2015"
-
-publications: 
-    title: Patents
-    intro: 
-    papers: 
-      - title: "Lightweight functional testing"
-        link: "https://patentimages.storage.googleapis.com/8b/1b/07/57ab5db7b53188/US9658932.pdf"
-        authors: Hannes Heikinheimo, Esko Suomi, Behrouz Derakhshan
-        conference: 
+        
 
 skills:
     title: Skills &amp; Proficiency
