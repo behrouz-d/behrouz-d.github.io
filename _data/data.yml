@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Behrouz Derakhshan
     tagline: ML and Data Engineer/Researcher
-    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+#     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: behrouz.derakhshan@gmail.com
@@ -102,10 +102,25 @@ theses:
     title: Thesis Supervision
     intro: 
     papers: 
-      - title: "Secure Data Matching in Federated Learning."
+      - title: "Secure Data Matching in Federated Learning"
         link: "pdfs/advised-theses/secure-data-matching-thesis.pdf"
         authors: Ali Arous
         conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2021"
+        
+    - title: "Realistic Advanced Analytics Pipelines for End-to-End Machine Learning Benchmarking"
+        link: "pdfs/advised-theses/ml-benchmarking-theis.pdf"
+        authors: Robertus Vincent
+        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2021"
+        
+    - title: "Empirical Comparison of Forecasting Methods."
+        link: "pdfs/advised-theses/forecasting-comparison-theis.pdf"
+        authors: Leonardo Araneda Freccero
+        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, July 2021"
+        
+    - title: "Continuous Training and Deployment of Deep Learning Models"
+        link: "pdfs/advised-theses/continuous-dl-training-thesis.pdf"
+        authors: Ioannis Prapas
+        conference: "MSc thesis, Faculty IV (EECS), TU Berlin, Berlin, Germany, August 2020"
         
 
 skills:
