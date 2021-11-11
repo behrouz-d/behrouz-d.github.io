@@ -62,7 +62,7 @@ career-profile:
 
 publications: 
     title: Publications
-    intro: asd
+    intro: 
     papers: 
       - title: "Continuous Training and Deployment of Deep Learning Models"
         link: "#"
@@ -93,6 +93,15 @@ publications:
         link: "pdfs/publications/master-thesis.pdf"
         authors: Behrouz Derakhshan
         conference: "Master Thesis, University of Helsinki, Faculty of Science, Department of Computer Science, 2015"
+
+publications: 
+    title: Patents
+    intro: 
+    papers: 
+      - title: "Lightweight functional testing"
+        link: "https://patentimages.storage.googleapis.com/8b/1b/07/57ab5db7b53188/US9658932.pdf"
+        authors: Hannes Heikinheimo, Esko Suomi, Behrouz Derakhshan
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
