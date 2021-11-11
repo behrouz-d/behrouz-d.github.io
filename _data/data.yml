@@ -142,41 +142,41 @@ theses:
 
 teaching:
 
-    - item: "Advanced Information Management 3 (AIM-3) Scalable Data Science: Systems and Methods (SDSSM), WS 2015/2016, TU Berlin"
+    - title: "Advanced Information Management 3 (AIM-3) Scalable Data Science: Systems and Methods (SDSSM), WS 2015/2016, TU Berlin"
     
-    - item: "Big Data Analytics Project, SS 2016, TU Berlin"
+    - title: "Big Data Analytics Project, SS 2016, TU Berlin"
     
-    - item: "Big Data Analytics Project, WS 2016/2017, TU Berlin"
+    - title: "Big Data Analytics Project, WS 2016/2017, TU Berlin"
     
-    - item: "Big Data Analytics Project, WS 2018/2019, TU Berlin"
+    - title: "Big Data Analytics Project, WS 2018/2019, TU Berlin"
     
-    - item: "Big Data Analytics Project, WS 2019/2020, TU Berlin"
+    - title: "Big Data Analytics Project, WS 2019/2020, TU Berlin"
     
-    - item: "Big Data Analytics Project, SS 2020, TU Berlin"
+    - title: "Big Data Analytics Project, SS 2020, TU Berlin"
     
-    - item: "Big Data Analytics Seminar, SS 2017, TU Berlin"
+    - title: "Big Data Analytics Seminar, SS 2017, TU Berlin"
     
-    - item: "Big Data Analytics Seminar, SS 2018, TU Berlin"
+    - title: "Big Data Analytics Seminar, SS 2018, TU Berlin"
     
-    - item: "Big Data Analytics Seminar, SS 2019, TU Berlin"
+    - title: "Big Data Analytics Seminar, SS 2019, TU Berlin"
     
-    - item: "Big Data Analytics Seminar, WS 2018/2019, TU Berlin"
+    - title: "Big Data Analytics Seminar, WS 2018/2019, TU Berlin"
     
-    - item: "Big Data Analytics Seminar, WS 2020/2021, TU Berlin"
+    - title: "Big Data Analytics Seminar, WS 2020/2021, TU Berlin"
     
-    - item: "Hot Topics in Information Management Seminar, SS 2017, TU Berlin"
+    - title: "Hot Topics in Information Management Seminar, SS 2017, TU Berlin"
     
-    - item: "Hot Topics in Information Management Seminar, SS 2018, TU Berlin"
+    - title: "Hot Topics in Information Management Seminar, SS 2018, TU Berlin"
     
-    - item: "Database Project, SS 2021, TU Berlin"
+    - title: "Database Project, SS 2021, TU Berlin"
     
-    - item: "Database Seminar, SS 2021, TU Berlin"
+    - title: "Database Seminar, SS 2021, TU Berlin"
     
-    - item: "Hot Topics in Information Management (Project), SS 2021, TU Berlin"
+    - title: "Hot Topics in Information Management (Project), SS 2021, TU Berlin"
     
-    - item: "Advanced Information Management 3 (AIM-3) Scalable Data Science: Systems and Methods (SDSSM), WS 2021/2022, TU Berlin"
+    - title: "Advanced Information Management 3 (AIM-3) Scalable Data Science: Systems and Methods (SDSSM), WS 2021/2022, TU Berlin"
     
-    - item: "Database Seminar, WS 2021/2022 2021, TU Berlin"
+    - title: "Database Seminar, WS 2021/2022 2021, TU Berlin"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
