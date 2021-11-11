@@ -19,12 +19,12 @@
   {% for thesis in theses.papers %}
   <div class="item">
     {% if thesis.link %}
-      <li><a href="{{ thesis.link }}">{{ thesis.title }}</a></li>
+      <li><a href="{{ thesis.link }}">{{ thesis.title }, { thesis.authors }}</a></li>
     {% else %}
-      <li>{{ thesis.title }}</li>
+      <li>{{ thesis.title }, { thesis.authors }}</li>
     {% endif %}
-    <div class="thesis-authors">{{ thesis.authors }}</div>
-    <div class="thesis-conference">{{ thesis.conference }}</div>
+<!--     <div class="thesis-authors">{{ thesis.authors }}</div> -->
+<!--     <div class="thesis-conference">{{ thesis.conference }}</div> -->
 
   </div><!--//item-->
   {% endfor %}
