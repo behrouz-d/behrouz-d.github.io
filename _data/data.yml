@@ -62,22 +62,22 @@ career-profile:
 
 publications:
     title: Publications
-    intro: 
+    intro: asd
     papers:
-      - title: Continuous Training and Deployment of Deep Learning Models
+      - title: "Continuous Training and Deployment of Deep Learning Models"
         link: "#"
         authors: Ioannis Prapas, Behrouz Derakhshan, Alireza Rezaei Mahdiraji, and Volker Markl
-        conference: Datenbank Spektrum 2021 (to appear)
+        conference: "Datenbank Spektrum 2021 (to appear)"
 
       - title: "ExDRa: Exploratory Data Science on Federated Raw Data"
         link: "pdfs/publications/exploratory-sigmod.pdf"
         authors: Sebastian Baunsgaard, Matthias Boehm, Behrouz Derakhshan, et al.
-        conference: "Proceedings of the 2021 International Conference on Management of Data"
+        conference: "Proceedings of the 2021 International Conference on Management of Data (SIGMOD'21)"
 
       - title: Optimizing Machine Learning Workloads in Collaborative Environments
         link: "pdfs/publications/collab-sigmod.pdf"
         authors: Behrouz Derakhshan, Alireza Rezaei Mahdiraji, Ziawasch Abedjan, Tilmann Rabl, Volker Markl
-        conference: "Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data"
+        conference: "Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data (SIGMOD'20)"
         
      - title: Continuous Deployment of Machine Learning Pipelines
         link: "pdfs/publications/continuous-edbt.pdf"
