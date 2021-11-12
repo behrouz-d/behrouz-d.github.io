@@ -65,9 +65,9 @@ publications:
     intro: 
     papers: 
       - title: "Continuous Training and Deployment of Deep Learning Models"
-        link: "#"
+        link: "pdfs/publications/dl-continuous-ds.pdf"
         authors: Ioannis Prapas, Behrouz Derakhshan, Alireza Rezaei Mahdiraji, and Volker Markl
-        conference: "Datenbank Spektrum 2021 (to appear)"
+        conference: "Datenbank Spektrum 2021"
 
       - title: "ExDRa: Exploratory Data Science on Federated Raw Data"
         link: "pdfs/publications/exploratory-sigmod.pdf"
