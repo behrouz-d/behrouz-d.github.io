@@ -7,8 +7,8 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Behrouz Derakhshan
-    tagline: ML and Data Engineer/Researcher
+    name: Behrouz Derakhshan, Ph.D.
+    tagline: Software Engineer, Data and ML
     avatar:  profile_cropped.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -50,13 +50,17 @@ sidebar:
 career-profile: 
     title: About me
     summary: |
-      I am a database and machine learning researcher in [German Research Center for Artifical Intelligence (DFKI)](https://dfki.de). 
-      I'm also an PhD candidate at [TU Berlin](https://www.tu.berlin), mentored by 
+      I am a researcher/software engineer experienced in designing and building data and ML platforms. I'm currently a senior softare engineer at Wayfair,
+      where I'm building pipelines and APIs for ingesting customer and supplier data. My main focus is on building data platforms for real-time and low-latency
+      data ingestion. 
+      
+      Prior to that, I was a database and machine learning researcher in [German Research Center for Artifical Intelligence (DFKI)](https://dfki.de) and [TU Berlin](https://www.tu.berlin), 
+      where I completed my PhD Thesis (Materialization and Reuse Optimizations for Machine Learning Workloads) mentored by 
       [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl) and cooperating with 
       [Tilmann Rabl](https://hpi.de/rabl/team/prof-dr-tilmann-rabl.html) and [Zoi Kaoudi](https://www.user.tu-berlin.de/zkaoudi/).
       My research interests are scalable machine learning, management of end-to-end machine learning pipelines, and federated machine learning. 
       
-      Previously, I worked as a data engineer/senior data engineer in [Rovio Entertainment](hhttps://www.rovio.com/). 
+      I also worked as a data engineer/senior data engineer in [Rovio Entertainment](hhttps://www.rovio.com/). 
       I received my MSc degree from [University of Helsinki](https://www.ethz.ch/en.html) under supervision of 
       [Hannu Toivonen](https://www2.helsinki.fi/en/researchgroups/computational-creativity-and-data-mining/hannu-toivonen) and 
       [Hannes Heikinheimo](https://www.linkedin.com/in/hannesheikinheimo/).
@@ -65,6 +69,13 @@ publications:
     title: Publications and Patents
     intro: 
     papers: 
+      - title: "Materialization and Reuse Optimizations for Machine Learning Workloads (Phd Thesis)"
+        link: "pdfs/publications/mat-reuse-phd-thesis.pdf"
+        authors: Behrouz Derakhshan
+      - title: "Materialization and Reuse Optimizations for Production Data Science Pipelines"
+        link: "pdfs/publications/mat-reuse-sigmod-22.pdf"
+        authors: Behrouz Derakhshan, Alireza Rezaei Mahdiraji, Zoi Kaudi, Tilmann Rabl, Volker Markl
+        conference: "Proceedings of the 2022 ACM SIGMOD International Conference on Management of Data (SIGMOD'22)"
       - title: "Continuous Training and Deployment of Deep Learning Models"
         link: "pdfs/publications/dl-continuous-ds.pdf"
         authors: Ioannis Prapas, Behrouz Derakhshan, Alireza Rezaei Mahdiraji, and Volker Markl
