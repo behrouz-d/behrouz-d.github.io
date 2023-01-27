@@ -50,9 +50,9 @@ sidebar:
 career-profile: 
     title: About me
     summary: |
-      I am a researcher/software engineer experienced in designing and building data and ML platforms. I'm currently a senior softare engineer at Wayfair,
-      where I'm building pipelines and APIs for ingesting customer and supplier data. My main focus is on building data platforms for real-time and low-latency
-      data ingestion. 
+      I am a software engineer/researcher with experience in designing and building data and ML platforms. 
+      I’m currently a senior software engineer at Wayfair. 
+      My main focus is on building data platforms for real-time and low-latency data ingestion.
       
       Prior to that, I was a database and machine learning researcher in [German Research Center for Artifical Intelligence (DFKI)](https://dfki.de) and [TU Berlin](https://www.tu.berlin), 
       where I completed my PhD Thesis (Materialization and Reuse Optimizations for Machine Learning Workloads) mentored by 
