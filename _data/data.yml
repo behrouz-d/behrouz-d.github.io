@@ -50,7 +50,7 @@ sidebar:
 career-profile: 
     title: About me
     summary: |
-      I am a software engineer/researcher with experience in designing and building data and ML platforms. 
+      I am a software engineer/researcher with experience in designing and building data and ML platforms, with several publications at SIGMOD, EDBT, and AAAI.
       I’m currently a senior software engineer at Wayfair. 
       My main focus is on building data platforms for real-time and low-latency data ingestion.
       
@@ -72,10 +72,12 @@ publications:
       - title: "Materialization and Reuse Optimizations for Machine Learning Workloads (Phd Thesis)"
         link: "pdfs/publications/mat-reuse-phd-thesis.pdf"
         authors: Behrouz Derakhshan
+        
       - title: "Materialization and Reuse Optimizations for Production Data Science Pipelines"
         link: "pdfs/publications/mat-reuse-sigmod-22.pdf"
         authors: Behrouz Derakhshan, Alireza Rezaei Mahdiraji, Zoi Kaudi, Tilmann Rabl, Volker Markl
         conference: "Proceedings of the 2022 ACM SIGMOD International Conference on Management of Data (SIGMOD'22)"
+        
       - title: "Continuous Training and Deployment of Deep Learning Models"
         link: "pdfs/publications/dl-continuous-ds.pdf"
         authors: Ioannis Prapas, Behrouz Derakhshan, Alireza Rezaei Mahdiraji, and Volker Markl
